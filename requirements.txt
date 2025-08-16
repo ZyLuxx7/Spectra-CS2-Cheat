@@ -1,0 +1,7 @@
+PySide6
+qt-material
+requests
+pymem
+pypiwin32
+pynput
+Pillow
